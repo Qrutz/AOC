@@ -26,8 +26,5 @@ def ff(x):
 
    
     
-       
-ff(list1)
-        
-    
+ 
 
