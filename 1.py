@@ -22,9 +22,3 @@ def ff(x):
         if (sum(x[i-2:i+1])-sum(x[i-3:i])) > 0:
             counter+=1
     print(counter)
-    
-
-   
-    
- 
-
